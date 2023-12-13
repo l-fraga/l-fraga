@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Lucas Silva 👋
 
-<!--
-**l-fraga/l-fraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Software Engineer. And, I'm studying Web Development at [Alura]. (https://www.alura.com.br/)
 
-Here are some ideas to get you started:
+#### Current Stack
+- Main language: Javascript
+- Back end: 'Nodejs'
+- Front end: 'React', 'HTML5', 'CSS3', 'Javascript', 'Typescript'
+- Layout Design: 'Figma'
+- Version code control: 'Git & GitHub'
+- Tools: 'VsCode'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: lucassilvacma@hotmail.com
+- Linkedin: https://www.linkedin.com/in/lucas-de-fraga-silva-101656223/

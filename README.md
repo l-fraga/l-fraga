@@ -4,7 +4,7 @@
 I'm a Software Engineer. And, I'm studying Web Development at [Alura]. (https://www.alura.com.br/)
 
 #### Current Stack
-- Main language: Javascript
+- Main language: 'Java', 'Javascript'
 - Back end: 'Nodejs'
 - Front end: 'React', 'HTML5', 'CSS3', 'Javascript', 'Typescript'
 - Layout Design: 'Figma'

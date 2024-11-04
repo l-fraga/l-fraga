@@ -5,8 +5,8 @@ I'm a Software Engineer. And, I'm studying Web Development at [RocketSeat]. http
 
 #### Current Stack
 - Main language: 'Javascript', 'Java', 'Python'
-- Back end: 'Nodejs', 'SpringBoot'
-- Front end: 'ReactNative', 'REACT', 'Javascript', 'Typescript'
+- Back end: 'Nodejs', 'SpringBoot', 'FastAPI'
+- Front end: 'ReactNative', 'React', 'Javascript', 'Typescript'
 - Layout Design: 'Figma'
 - Version code control: 'Git & GitHub'
 - Database: 'SQL', 'NOSQL'

@@ -10,7 +10,7 @@ I'm a Software Engineer. And, I'm studying Web Development at [RocketSeat]. http
 - Layout Design: 'Figma'
 - Version code control: 'Git & GitHub'
 - Database: 'SQL', 'NOSQL'
-- Tools: 'VsCode', 'Docker'
+- Tools: 'VsCode', 'IntelliJ', 'Docker'
 
 #### Contacts
 - Email: lucassilvacma@hotmail.com

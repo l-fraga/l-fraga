@@ -4,13 +4,13 @@
 I'm a Software Engineer. And, I'm studying Web Development at [RocketSeat]. https://www.rocketseat.com.br/.
 
 #### Current Stack
-- Main language: 'Javascript', 'Java', 'Python'
+- Main language: 'Javascript', 'Java', 'Python', 'Go'
 - Back end: 'Nodejs', 'SpringBoot', 'FastAPI'
-- Front end: 'ReactNative', 'React', 'Javascript', 'Typescript'
+- Front end: 'ReactNative', 'React',
 - Layout Design: 'Figma'
 - Version code control: 'Git & GitHub'
 - Database: 'SQL', 'NOSQL'
-- Tools: 'VsCode', 'IntelliJ', 'Docker'
+- Tools: 'VsCode', 'IntelliJ', 'Docker', 'Postman'
 
 #### Contacts
 - Email: lucassilvacma@hotmail.com

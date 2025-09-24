@@ -1,16 +1,12 @@
 ### Hi there, I'm Lucas Silva 👋
 
 #### About
-I'm a Software Engineer. And, I'm studying Web Development.
+I'm a Software Engineer.
 
 #### Current Stack
-- Main language: 'Javascript', 'Java', 'Python', 'Go'
-- Back end: 'Nodejs', 'SpringBoot', 'FastAPI'
-- Front end: 'ReactNative', 'React',
-- Layout Design: 'Figma'
-- Version code control: 'Git & GitHub'
-- Database: 'SQL', 'NOSQL'
-- Tools: 'VsCode', 'IntelliJ', 'Docker', 'Postman'
+- Main language: 'Javascript', 'Java', 'Python',
+- Back end: 'Nestjs', 'SpringBoot', 'FastAPI'
+- Front end: 'Nextjs',
 
 #### Contacts
 - Email: lucassilvacma@hotmail.com

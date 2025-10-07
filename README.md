@@ -6,7 +6,7 @@ I'm a Software Engineer.
 #### Current Stack
 - Main language: 'Javascript', 'Java', 'Python',
 - Back end: 'Nestjs', 'SpringBoot', 'FastAPI'
-- Front end: 'Nextjs',
+- Front end: 'Nextjs', 'React'
 
 #### Contacts
 - Email: lucassilvacma@hotmail.com

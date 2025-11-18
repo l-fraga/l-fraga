@@ -4,7 +4,7 @@
 I'm a Software Engineer.
 
 #### Current Stack
-- Main language: 'Javascript', 'Java', 'Python',
+- Main language: 'Typescript', 'Java', 'Python',
 - Back end: 'Nestjs', 'SpringBoot', 'FastAPI'
 - Front end: 'Nextjs', 'React'
 

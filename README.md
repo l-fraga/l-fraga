@@ -10,4 +10,4 @@ I'm a Software Engineer.
 
 #### Contacts
 - Email: lucassilvacma@hotmail.com
-- Linkedin: https://www.linkedin.com/in/lucas-de-fraga-silva-101656223/
+- Linkedin: https://www.linkedin.com/in/lucas-de-fraga-silva
